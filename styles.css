@@ -12,14 +12,11 @@ h1, h2, h3, h4 {
     color: coral;
 }
 
-p {
-    background-color: darkseagreen;
-}
-
 .unordered-list,
 .ordered-list,
 li,
 strong,
-div {
+div,
+p {
     background-color: darkseagreen;
 }
