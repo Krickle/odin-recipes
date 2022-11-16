@@ -7,17 +7,10 @@ p {
 div {
     color: cyan;
     font-family: cursive;
+    text-align: center;
 }
 
 p,
 div {
     background-color: dimgray;
-}
-
-p {
-    /* several unique declarations */
-}
-
-div {
-    /* several unique declarations */
 }
