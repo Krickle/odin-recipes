@@ -6,6 +6,8 @@
 button,
 a {
     background-color: aqua;
+    font-size: medium;
+    font-weight: 600;
 }
 
 h1, h2, h3, h4 {
